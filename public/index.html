@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns:v-on="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Science Olympiad</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+    <style>
+        .no-uppercase {
+            text-transform: none;
+        }
+
+        .card-title {
+            cursor: pointer;
+        }
+
+        .card-action {
+            display: flex;
+            justify-content: space-around;
+        }
+    </style>
+    <script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-firestore.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyA9RdBQQAwztVeRkhg7can2W1CzUSj5qZM",
+            authDomain: "brookings-sci-oly.firebaseapp.com",
+            databaseURL: "https://brookings-sci-oly.firebaseio.com",
+            projectId: "brookings-sci-oly",
+            storageBucket: "brookings-sci-oly.appspot.com",
+            messagingSenderId: "1072038859317"
+        };
+        firebase.initializeApp(config);
+    </script>
+</head>
+<body>
+<!--nav bar-->
+
+<div id="root"></div>
+
+<!--<script src="static/js/events.js"></script>-->
+<!--<script src="static/js/main.js"></script>-->
+<!--<script src="static/js/locked.js"></script>-->
+<!--<script src="static/js/index.js"></script>-->
+<script src="index.pack.js"></script>
+</body>
+</html>
