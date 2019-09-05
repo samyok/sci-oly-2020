@@ -50,10 +50,9 @@ class SearchBar extends React.Component {
             <tr key={event.page_num}>
                 <td>
                     {peopleComponents}
-                    <div className={"card blue-grey " + extraClasses}
-                         onClick={this.setSearch(event.title.toLowerCase())}>
+                    <div className={"card blue-grey " + extraClasses}>
                         <div className="card-content white-text">
-                            <span className="card-title">
+                            <span className="card-title" onClick={this.setSearch(event.title.toLowerCase())}>
                                 {event.title}
                             </span>
                             <p>

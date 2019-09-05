@@ -2,6 +2,7 @@
 <html xmlns:v-on="http://www.w3.org/1999/xhtml" lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Science Olympiad</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
@@ -19,6 +20,16 @@
         .card-action {
             display: flex;
             justify-content: space-around;
+        }
+        tbody {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        tr {
+            flex: 0 50%;
+            width: 100%;
         }
     </style>
     <script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-app.js"></script>
@@ -45,6 +56,6 @@
 <!--<script src="static/js/main.js"></script>-->
 <!--<script src="static/js/locked.js"></script>-->
 <!--<script src="static/js/index.js"></script>-->
-<script src="index.pack.js"></script>
+<!--<script src="index.pack.js"></script>-->
 </body>
 </html>
