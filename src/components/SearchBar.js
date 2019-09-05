@@ -115,8 +115,8 @@ class SearchBar extends React.Component {
                     <p>March 21, 2020 • {timeLeft}</p>
                 </div>
                 <div className="row">
-                    <div className="col s0 l2"/>
-                    <div className="col s12 l8" id="search" style={{display: "flex"}}>
+                    <div className="col s0 xl2"/>
+                    <div className="col s12 xl8" id="search" style={{display: "flex"}}>
                         <table className="centered">
                             <tbody>
                             {eventComponents}
