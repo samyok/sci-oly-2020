@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/2020sdsciolydivc.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/EventData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainApp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +59,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,10 +75,11 @@
       <recent name="D:\WebstormProjects\scienceolympiad.club\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\scienceolympiad.club\docs\static\js" />
+      <recent name="D:\WebstormProjects\scienceolympiad.club\docs\static" />
+      <recent name="D:\WebstormProjects\scienceolympiad.club\docs" />
       <recent name="D:\WebstormProjects\scienceolympiad.club" />
       <recent name="D:\WebstormProjects\scienceolympiad.club\public" />
-      <recent name="D:\WebstormProjects\scienceolympiad.club\src\components" />
-      <recent name="D:\WebstormProjects\scienceolympiad.club\src" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -133,7 +126,8 @@
       <workItem from="1567966751180" duration="64000" />
       <workItem from="1568475508830" duration="1869000" />
       <workItem from="1568491082557" duration="41000" />
-      <workItem from="1576953469685" duration="1332000" />
+      <workItem from="1576953469685" duration="1751000" />
+      <workItem from="1576955673795" duration="484000" />
     </task>
     <servers />
   </component>
@@ -145,10 +139,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="501" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576954504310" />
-    <state x="496" y="233" key="run.anything.popup" timestamp="1576953881818">
+    <state x="496" y="233" key="run.anything.popup" timestamp="1576956232453">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="496" y="233" key="run.anything.popup/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576953881818" />
+    <state x="496" y="233" key="run.anything.popup/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576956232453" />
     <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1576953948574">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

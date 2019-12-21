@@ -137,31 +137,14 @@ class TestInfoArea extends React.Component {
         return (
             <div>
                 <h2>Chromatography Test</h2>
-                <h4>Topic: Paper and Thin Layer Chromatography</h4>
-                Links: (Test January 2nd)
-                <ul>
-                    <li>
-                        <a href="https://en.wikipedia.org/wiki/Chromatography">
-                            Wikipedia: Chromatography
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://en.wikipedia.org/wiki/Paper_chromatography">
-                            Wikipedia: Paper Chromatography
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://en.wikipedia.org/wiki/Thin-layer_chromatography">
-                            Wikipedia: Thin-Layer Chromatography
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.khanacademy.org/test-prep/mcat/chemical-processes/separations-purifications/a/principles-of-chromatography">
-                            Khan Academy
-                        </a>
-                    </li>
-                </ul>
-                <b>You will not be tested over any other types of chromatography other than paper and thin layer (i.e. not liquid column or ion-exchange chromatography),</b>
+                <iframe
+                    src="https://docs.google.com/document/d/e/2PACX-1vRKzt89FZDFAOyROtG0EZXnN_nOOSf4BoVKGsO4h8ortAQj1xfokaBDBCJNc7JGXyR4_0NTxJOhmDs4/pub"
+                    frameborder="0"
+                    style={{
+                        height: "100vh",
+                        width: "100%",
+                    }}
+                />
             </div>
         )
     }
