@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
-    </list>
+    <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +124,7 @@
       <workItem from="1568475508830" duration="1869000" />
       <workItem from="1568491082557" duration="41000" />
       <workItem from="1576953469685" duration="1751000" />
-      <workItem from="1576955673795" duration="484000" />
+      <workItem from="1576955673795" duration="748000" />
     </task>
     <servers />
   </component>
