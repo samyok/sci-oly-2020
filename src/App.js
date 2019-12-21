@@ -5,8 +5,8 @@ import Footer from "./components/Footer";
 import MainApp from "./components/MainApp";
 
 class App extends React.Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             view: {
                 id: "main",

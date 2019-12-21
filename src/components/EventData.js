@@ -18,7 +18,7 @@ const events = [{
     "details": "Teams will design and build a Boomilever meeting requirements specified in the rules to achieve the highest structural efficiency.",
     "name": "Boomilever",
     "page_num": 8,
-    "people": ["Unclaimed"],
+    "people": ["Tristina Ting", "Prasoon Kharel", "Bidhi Kasu", "Isha Hooda", "James Park"],
     "sciOly": "https://www.soinc.org/boomilever-c",
     "title": "BOOMILEVER",
     "wiki": "https://scioly.org/wiki/index.php/Boomilever"
@@ -114,7 +114,7 @@ const events = [{
     "details": "Teams design, build and test one Vehicle and Ramp that uses the Vehicle's gravitational potential energy as its sole means of propulsion to reach a target as quickly and accurately as possible.",
     "name": "Gravity Vehicle",
     "page_num": 30,
-    "people": ["Unclaimed"],
+    "people": ["Serena An", "Grant Sternhagen", "Samyok Nepal", "Joshua Park", "Will Hummel"],
     "sciOly": "https://www.soinc.org/gravity-vehicle-c",
     "title": "GRAVITY VEHICLE",
     "wiki": "https://scioly.org/wiki/index.php/Gravity_Vehicle"
@@ -137,8 +137,8 @@ const events = [{
 }, {
     "details": "Prior to the tournament, teams will design, build and bring up to two bottle rockets to the tournament to launch a ping pong ball attached to a parachute to stay aloft for the greatest amount of time.",
     "name": "Ping-Pong Parachute",
-    "page_num": 0,
-    "people": ["Unclaimed"],
+    "page_num": 39,
+    "people": ["Carissa Witt", "Joseph Park", "Jemma Pillatzke", "Aditya Tummala", "Trisha Sharan"],
     "sciOly": "https://www.soinc.org/ping-pong-parachute-c",
     "title": "PING-PONG PARACHUTE",
     "wiki": "https://scioly.org/wiki/index.php/Ping-Pong_Parachute-c"
@@ -170,7 +170,7 @@ const events = [{
     "details": "Prior to the competition teams design, construct and test free flight rubber-powered monoplanes or biplanes to achieve maximum time aloft.",
     "name": "Wright Stuff",
     "page_num": 48,
-    "people": ["Unclaimed"],
+    "people": ["Helen Zhang", "Ethan Peng", "Christopher Gross", "Bija Kasu", "Katie Messerli", "Angela Lansang", "Tiana"],
     "sciOly": "https://www.soinc.org/wright-stuff-c",
     "title": "WRIGHT STUFF",
     "wiki": "https://scioly.org/wiki/index.php/Wright_Stuff"
