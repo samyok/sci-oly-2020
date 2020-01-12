@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="" />
+    <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2020sdsciolydivc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/precache-manifest.68b2f2611a2a36adb4d96f89d78f839f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/2.8b59e765.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/2.8b59e765.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.3fb5dda0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.3fb5dda0.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.d5f589b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.d5f589b4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EventData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,32 +32,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sty</find>
-      <find>onclick</find>
-      <find>\n</find>
-      <find>&quot; {&quot;</find>
-      <find>&quot;people&quot;: [],</find>
-      <find>(https://scioly.org/wiki/index.php/[^-]+)-c</find>
-      <find>onClick</find>
-      <find>l2</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>{&quot;</replace>
-      <replace>&quot;people&quot;: [&quot;Unclaimed&quot;],</replace>
-      <replace>$1</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-22" />
-    <option name="y" value="488" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
   </component>
   <component name="ProjectId" id="1VIvY4zV7w1QCEKVxGVEtNJyh62" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,14 +60,14 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\nepal\AppData\Roaming\npm\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WebstormProjects\scienceolympiad.club\public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\scienceolympiad.club\docs" />
       <recent name="D:\WebstormProjects\scienceolympiad.club\docs\static\js" />
       <recent name="D:\WebstormProjects\scienceolympiad.club\docs\static" />
-      <recent name="D:\WebstormProjects\scienceolympiad.club\docs" />
       <recent name="D:\WebstormProjects\scienceolympiad.club" />
+      <recent name="D:\WebstormProjects\scienceolympiad.club\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WebstormProjects\scienceolympiad.club\public" />
     </key>
   </component>
@@ -124,7 +116,8 @@
       <workItem from="1568475508830" duration="1869000" />
       <workItem from="1568491082557" duration="41000" />
       <workItem from="1576953469685" duration="1751000" />
-      <workItem from="1576955673795" duration="748000" />
+      <workItem from="1576955673795" duration="1989000" />
+      <workItem from="1578845033340" duration="1324000" />
     </task>
     <servers />
   </component>
@@ -132,14 +125,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1576958637115">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576958637115" />
     <state x="501" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954504310">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="501" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576954504310" />
-    <state x="496" y="233" key="run.anything.popup" timestamp="1576956232453">
+    <state x="647" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576956981009">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="496" y="233" key="run.anything.popup/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576956232453" />
+    <state x="647" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576956981009" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1578845052964">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1578845052964" />
     <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1576953948574">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

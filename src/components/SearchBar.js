@@ -96,37 +96,36 @@ class SearchBar extends React.Component {
 
         return (
             <div className="container center" id="menu">
-                {/*<h1>Brookings Science Olympiad</h1>*/}
+                <h1>Brookings Science Olympiad</h1>
                 <TestInfoArea/>
                 <p>State Competition {timeLeft} (March 21, 2020)</p>
 
-                {/*<div className="input-field">*/}
-                {/*    <i className="material-icons prefix">search</i>*/}
-                {/*    <input*/}
-                {/*        id="searchBar"*/}
-                {/*        type="text"*/}
-                {/*        value={this.state.search}*/}
-                {/*        className={this.state.search ? 'validate valid' : 'validate'}*/}
-                {/*        onChange={this.handleChange}*/}
-                {/*        disabled*/}
-                {/*    />*/}
-                {/*    <label*/}
-                {/*        htmlFor="searchBar"*/}
-                {/*        className={this.state.search ? 'active' : ''}*/}
-                {/*    >*/}
-                {/*        Search by person or event*/}
-                {/*    </label>*/}
-                {/*</div>*/}
-                {/*    <div className="row">*/}
-                {/*        <div className="col s0 xl2"/>*/}
-                {/*        <div className="col s12 xl8" id="search" style={{display: "flex"}}>*/}
-                {/*            <table className="centered">*/}
-                {/*                <tbody>*/}
-                {/*                {eventComponents}*/}
-                {/*                </tbody>*/}
-                {/*            </table>*/}
-                {/*        </div>*/}
-                {/*    </div>*/}
+                <div className="input-field">
+                    <i className="material-icons prefix">search</i>
+                    <input
+                        id="searchBar"
+                        type="text"
+                        value={this.state.search}
+                        className={this.state.search ? 'validate valid' : 'validate'}
+                        onChange={this.handleChange}
+                    />
+                    <label
+                        htmlFor="searchBar"
+                        className={this.state.search ? 'active' : ''}
+                    >
+                        Search by person or event
+                    </label>
+                </div>
+                <div className="row">
+                    <div className="col s0 xl2"/>
+                    <div className="col s12 xl8" id="search" style={{display: "flex"}}>
+                        <table className="centered">
+                            <tbody>
+                            {eventComponents}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
         );
     }
@@ -134,7 +133,7 @@ class SearchBar extends React.Component {
 
 class TestInfoArea extends React.Component {
     render() {
-        return (
+        let testArea = (
             <div>
                 <h2>Chromatography Test</h2>
                 <iframe
@@ -146,7 +145,8 @@ class TestInfoArea extends React.Component {
                     }}
                 />
             </div>
-        )
+        );
+        return null;
     }
 }
 
