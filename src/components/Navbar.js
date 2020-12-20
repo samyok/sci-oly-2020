@@ -24,7 +24,7 @@ class Navbar extends React.Component {
                                 {/*    </a>*/}
                                 {/*</li>*/}
                                 <li>
-                                    <a href="http://api-static.ctlglobalsolutions.com/science/Science_Olympiad_Div_C_2020_Rules_Manual_Web.pdf">
+                                    <a href="https://api-static.ctlglobalsolutions.com/science/Science_Olympiad_Div_C_Rules_2021_for_Web.pdf">
                                         Rules Manual
                                         <i className="material-icons right">gavel</i></a>
                                 </li>
