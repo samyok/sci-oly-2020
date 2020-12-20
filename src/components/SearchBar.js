@@ -63,7 +63,7 @@ class SearchBar extends React.Component {
                             <a target="_blank" rel="noopener noreferrer" href={event.sciOly}
                                className="btn waves-effect waves-light blue-grey darken-2">SciOly</a>
                             <a target="_blank" rel="noopener noreferrer"
-                               href={'https://api-static.ctlglobalsolutions.com/science/Science_Olympiad_Div_C_2020_Rules_Manual_Web.pdf#page=' + (event.page_num)}
+                               href={'https://api-static.ctlglobalsolutions.com/science/Science_Olympiad_Div_C_Rules_2021_for_Web.pdf#page=' + (event.page_num)}
                                className="btn waves-effect waves-light blue-grey darken-4">Rules</a>
                             <a target="_blank" rel="noopener noreferrer" href={event.wiki}
                                className="btn waves-effect waves-light blue-grey darken-2">Wiki</a>
@@ -92,13 +92,13 @@ class SearchBar extends React.Component {
                 event.details.toLowerCase().includes(search))
         }).map(this.createEvent);
 
-        let timeLeft = Moment("20200321", "YYYYMMDD").fromNow();
+        let timeLeft = Moment("20210320", "YYYYMMDD").fromNow();
 
         return (
             <div className="container center" id="menu">
                 <h1>Brookings Science Olympiad</h1>
                 <TestInfoArea/>
-                <p>State Competition {timeLeft} (March 21, 2020)</p>
+                <p>State Competition {timeLeft} (March 20, 2021)</p>
 
                 <div className="input-field">
                     <i className="material-icons prefix">search</i>

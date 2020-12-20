@@ -3,19 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020sdsciolydivc.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/precache-manifest.68b2f2611a2a36adb4d96f89d78f839f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/2.8b59e765.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/2.8b59e765.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.3fb5dda0.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.3fb5dda0.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.d5f589b4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.d5f589b4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.08e32989.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.08e32989.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.08e32989.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.08e32989.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/EventData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,17 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1VIvY4zV7w1QCEKVxGVEtNJyh62" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
@@ -58,6 +53,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\nepal\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,6 +94,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,32 +115,11 @@
       <workItem from="1576953469685" duration="1751000" />
       <workItem from="1576955673795" duration="1989000" />
       <workItem from="1578845033340" duration="1324000" />
+      <workItem from="1608497182715" duration="443000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1576958637115">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="620" y="259" key="FileChooserDialogImpl/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576958637115" />
-    <state x="501" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954504310">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="501" y="123" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576954504310" />
-    <state x="647" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576956981009">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="647" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576956981009" />
-    <state x="496" y="233" key="run.anything.popup" timestamp="1578845052964">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="496" y="233" key="run.anything.popup/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1578845052964" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1576953948574">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/-1050.-608.1050.1640/1680.164.1440.900/0.0.1680.1010@0.0.1680.1010" timestamp="1576953948574" />
+    <option name="version" value="3" />
   </component>
 </project>

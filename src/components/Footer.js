@@ -33,7 +33,7 @@ class Footer extends React.Component{
                     </div>
                     <div className="footer-copyright">
                         <div className="container">
-                            © 2020 <a href="https://samyoknepal.me" style={{color: "white", textDecoration: "underline"}}>Samyok Nepal</a>
+                            © 2021 <a href="https://samyoknepal.me" style={{color: "white", textDecoration: "underline"}}>Samyok Nepal</a>
                             <a className="btn-flat grey-text text-lighten-4 right scrollTop" href="#top">Back to top</a>
                         </div>
                     </div>
