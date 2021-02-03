@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "rm -r docs && react-scripts build && mv build docs",
+    "build": "rm -r docs && react-scripts build && mv build docs && cp CNAME docs/CNAME",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
