@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="559b26aa-319d-40fa-9eb0-04af18d3def2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/precache-manifest.b0a8b6a476fa88c441f9dbacdd2c477e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.2165fce4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.2165fce4.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +124,8 @@
       <workItem from="1608497182715" duration="1331000" />
       <workItem from="1610234003791" duration="754000" />
       <workItem from="1612332327229" duration="1223000" />
-      <workItem from="1612335931299" duration="76000" />
+      <workItem from="1612335931299" duration="118000" />
+      <workItem from="1612336263460" duration="316000" />
     </task>
     <servers />
   </component>
