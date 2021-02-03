@@ -29,7 +29,7 @@ class Navbar extends React.Component {
                                         <i className="material-icons right">gavel</i></a>
                                 </li>
                                 <li>
-                                    <a href="2020sdsciolydivc.pdf">Timings <i className="material-icons right">av_timer</i>
+                                    <a href={"SOEventScheduleDivisionC2021.pdf"}>Timings <i className="material-icons right">av_timer</i>
                                     </a>
                                 </li>
                             </ul>

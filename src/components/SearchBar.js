@@ -63,7 +63,7 @@ class SearchBar extends React.Component {
                             <a target="_blank" rel="noopener noreferrer" href={event.sciOly}
                                className="btn waves-effect waves-light blue-grey darken-2">SciOly</a>
                             <a target="_blank" rel="noopener noreferrer"
-                               href={'https://api-static.ctlglobalsolutions.com/science/Science_Olympiad_Div_C_Rules_2021_for_Web.pdf#page=' + (event.page_num)}
+                               href={'https://api-static.ctlglobalsolutions.com/science/Science_Olympiad_Div_C_Rules_2021_for_Web.pdf#page=' + (event.page_num +2)}
                                className="btn waves-effect waves-light blue-grey darken-4">Rules</a>
                             <a target="_blank" rel="noopener noreferrer" href={event.wiki}
                                className="btn waves-effect waves-light blue-grey darken-2">Wiki</a>
